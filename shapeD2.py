@@ -4,6 +4,7 @@ import numpy as np
 
 
 #comments
+#to do -> Board Math, Error Margin, Unity/Python, Continous Script
 
 camera_port = 1
 ramp_frames = 30
