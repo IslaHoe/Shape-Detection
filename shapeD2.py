@@ -2,6 +2,9 @@ import cv2
 import matplotlib.pyplot as plt
 import numpy as np
 
+
+#comments
+
 camera_port = 1
 ramp_frames = 30
 camera = cv2.VideoCapture(camera_port)
