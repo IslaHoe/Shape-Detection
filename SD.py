@@ -4,8 +4,8 @@ import numpy as np
 def main():
 	img, threshold_img = read_img('shapes.jpg', 220)
 	#img, threshold_img = read_img('detect_circles_soda.jpg', 220)
-	#detectPolygon(img, threshold_img)
-	detectCircle(img, threshold_img)
+	detectPolygon(img, threshold_img)
+	#detectCircle(img, threshold_img)
 	show_img('img', img)
 	show_img('threshold', threshold_img)
 
