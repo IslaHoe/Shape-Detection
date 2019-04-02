@@ -5,13 +5,97 @@
 	<title></title>
 	<meta name="generator" content="LibreOffice 6.2.0.3 (Windows)"/>
 	<meta name="created" content="00:00:00"/>
-	<meta name="changed" content="2019-04-02T12:39:12.203000000"/>
+	<meta name="changed" content="2019-04-02T17:26:38.493000000"/>
 	<style type="text/css">
 		@page { size: 21cm 29.7cm; margin-left: 2cm; margin-right: 1cm; margin-top: 1cm; margin-bottom: 1cm }
-		p { margin-bottom: 0.25cm; line-height: 115%; background: transparent }
+		p { margin-bottom: 0.25cm; background: transparent; line-height: 115%; background: transparent }
+		a:link { color: #000080; text-decoration: underline }
+		a.cjk:link { so-language: zxx }
+		a.ctl:link { so-language: zxx }
+		a:visited { color: #800000; text-decoration: underline }
+		a.cjk:visited { so-language: zxx }
+		a.ctl:visited { so-language: zxx }
 	</style>
 </head>
-<body lang="pt-BR" link="#000080" vlink="#800000" dir="ltr"><p style="margin-bottom: 0cm; line-height: 100%">
-First of all, you need to set up your local</p>
+<body lang="en-US" link="#000080" vlink="#800000" dir="ltr"><p style="margin-bottom: 0cm; line-height: 100%">
+<b>Instruction &ndash; Hot to use the python-python server-client.</b></p>
+<p style="margin-bottom: 0cm; line-height: 100%">1. First of all, you
+need to set up your localhost as a server with Apache.</p>
+<p style="margin-bottom: 0cm; line-height: 100%">To do that, I use a
+software called XAMPP, under GNU license.</p>
+<p style="margin-bottom: 0cm; line-height: 100%">Just clicking in the
+start button.</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><img src="How%20to%20do_docx_70285b15c114e76d.png" name="Figura1" align="left" width="512" height="331" border="0"/>
+<br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%">2. The next step is
+to start the python socket. Run the Python server.py on Terminal.</p>
+<p style="margin-bottom: 0cm; line-height: 100%">The server.py will
+wait until someone tries to connect.</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%">3. And finally, run
+the client. The server will accept automatically and you can start
+sending information. Everything you writes in the client terminal,
+you can press enter and send to the server.</p>
 </body>
 </html>
